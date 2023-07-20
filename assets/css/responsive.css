@@ -1,0 +1,50 @@
+
+    @media screen and (max-width:46.1875em) {
+      .s-col-full{
+        width: 100%;
+      }
+      .s-full-width{
+        width: 100% !important;
+      }
+       #nav>li{
+        display: block;
+       }
+      
+       #header .menu-icon{
+         display: inline-block;
+       }
+       #nav > li:first-child{
+        display: inline-block;
+    }
+       #header{
+        overflow: hidden;
+       }
+       #nav .subnav{
+        position: initial;
+        background-color: black;
+       }
+       #nav .subnav a{
+        color: white;
+        padding-left: 36px;
+       }
+       
+    
+       #search_btn .search_btn{
+        display: none;
+       }
+       #content .img_member{
+         width: 60%;
+       }
+       
+       .member-item{
+        width: 100%;
+       }
+       
+       .contact-form .form-control{
+        width: 100%;
+       }
+       .send-btn{
+        -webkit-appearance: none;
+       }
+       }
+     
